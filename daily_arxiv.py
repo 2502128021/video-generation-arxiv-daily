@@ -226,6 +226,14 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
+    # 创建目录（如果不存在）
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    
+    # 检查文件是否存在，如果不存在则创建空的JSON文件
+    if not os.path.exists(filename):
+        with open(filename, "w") as f:
+            json.dump({}, f)
+    
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -256,6 +264,7 @@ def json_to_md(recent_trend_path,
                filename,
                md_filename,
                black_list_set,
+               config,
                task = '',
                to_web = False, 
                use_title = True, 
@@ -265,6 +274,7 @@ def json_to_md(recent_trend_path,
     """
     @param filename: str
     @param md_filename: str
+    @param config: dict - 配置信息
     @return None
     """
     def pretty_math(s:str) -> str:
@@ -284,6 +294,10 @@ def json_to_md(recent_trend_path,
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
+    
+    # 获取用户名和仓库名
+    user_name = config.get('user_name', 'DavidYu')
+    repo_name = config.get('repo_name', 'video-generation-arxiv-daily')
     
     with open(filename,"r") as f:
         content = f.read()
@@ -308,21 +322,28 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers (With GPT Analysis)\n")
+        f.write("# Video Generation Research Papers (Daily Updated)\n")
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("### Automatically Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
-        f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
-        f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
+        # 更新关键词描述
+        f.write("Current Search Keywords: `Text-to-Video Generation`, `Image-to-Video Generation`, `Video Editing & Enhancement`, `3D & Motion Generation`, `Video Understanding & Control`, `Diffusion Models for Video`\n\n")
+        f.write("> 本项目自动追踪视频生成领域的最新arXiv论文，每12小时更新一次。如有其他关键词建议，欢迎提出！\n\n")
+        f.write("> 我们现在提供基于大语言模型的论文分析功能。您可以通过点击下方的 `Paper Analysis` 链接查看此功能。目前我们正在实验使用 `Claude.ai` 或 `OpenAI GPT`。这是为了帮助大家**快速浏览**最新的研究论文。\n\n")
         f.write(" \n\n")
 
-        recent_trend = open(recent_trend_path).read()
+        # 安全读取 recent_trend 文件
+        try:
+            if os.path.exists(recent_trend_path):
+                recent_trend = open(recent_trend_path, encoding='utf-8').read()
+            else:
+                recent_trend = "视频生成领域最新趋势分析即将更新..."
+        except Exception as e:
+            logging.warning(f"无法读取趋势文件 {recent_trend_path}: {e}")
+            recent_trend = "视频生成领域最新趋势分析即将更新..."
+            
         f.write("<details>\n")
         f.write("  <summary>Recent Trends (by AI)</summary>\n")
         f.write("  <ol>\n")    
@@ -330,8 +351,9 @@ def json_to_md(recent_trend_path,
         f.write("  </ol>\n")
         f.write("</details>\n\n")
 
-        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
-        f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
+        # 使用配置中的用户名和仓库名
+        f.write(f"[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/{user_name}/{repo_name}/blob/main/analysis_by_ai.md) \n\n")
+        f.write(f"[Web Page](https://{user_name}.github.io/{repo_name}/) ([Scrape Code](https://github.com/{user_name}/{repo_name})) \n\n")
         
         #Add: table of contents
         if use_tc == True:
@@ -392,25 +414,25 @@ def json_to_md(recent_trend_path,
         f.write("* Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. \n\n")
         
         if show_badge == True:
-            # we don't like long string, break it!
+            # 使用配置中的用户名和仓库名
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/liutaocode/"
-                     f"talking-face-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/liutaocode/"
-                     f"talking-face-arxiv-daily/issues\n\n"))
+                     f"contributors/{user_name}/{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/issues\n\n"))
                 
-    logging.info(f"{task} finished")        
+    logging.info(f"{task} finished")
 
 def demo(**config):
     # TODO: use config
@@ -455,7 +477,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Readme', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, config, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
@@ -467,7 +489,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update GitPage', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, config, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
@@ -480,7 +502,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Wechat', \
+        json_to_md(recent_trend_path, json_file, md_file, black_list_set, config, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
