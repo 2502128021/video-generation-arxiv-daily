@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Arxiv Papers Daily
+name: Run Video Generation Papers Daily
 
 # Controls when the workflow will run
 on:
@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: liutaocode
-  GITHUB_USER_EMAIL: liutaw@sjtu.edu.cn
+  GITHUB_USER_NAME: 2502128021  # 改为您的GitHub用户名
+  GITHUB_USER_EMAIL: yuqiwei_njust@163.com  # 改为您的邮箱
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new video-generation-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update Video Generation Arxiv Papers"
+          files: README.md docs/video-generation-arxiv-daily.json docs/video-generation-arxiv-daily-web.json docs/index.md docs/video-generation-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

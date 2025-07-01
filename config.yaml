@@ -1,11 +1,11 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
-repo_name: "cv-arxiv-daily"
+user_name: "DavidYu"
+repo_name: "video-generation-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
@@ -14,18 +14,26 @@ publish_wechat: True
 # file paths
 black_list_path: 'blacklists.txt'
 recent_trend_path: './pdf_analysis/recent_trends.txt'
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/video-generation-arxiv-daily.json'
+json_gitpage_path: './docs/video-generation-arxiv-daily-web.json'
+json_wechat_path: './docs/video-generation-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 claudeai_path: 'analysis_by_ai.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
+# keywords to search - 视频生成领域关键词
 keywords:
-    "Talking Face": 
-        filters: ["Talking Face", "Talking Head", "Talking Avatar",  "Animate Portrait", "Visual Dubbing", "Face Genertation", "Lip Sync", "Talker", "Portrait", "Talking Video", "Head Synthesis", "Face Reenactment", "Wav2lip", "Talking Avatar", "Lip Generation", "Lip Synchronization", "Portrait Animation", "Facial Animation", "Lip Expert"]
-    "Image Animation":
-        filters: ["Image Animator", "Image Animation"]
+    "Text-to-Video Generation": 
+        filters: ["Text-to-Video", "Text2Video", "T2V", "Video Generation", "Video Synthesis", "Text-driven Video", "Language-to-Video", "Prompt-to-Video", "Video from Text", "Generative Video", "Video Creation", "Video Diffusion", "Sora", "VideoCrafter", "ModelScope", "CogVideo", "Make-A-Video", "Imagen Video", "Gen-2", "Pika", "Stable Video Diffusion"]
+    "Image-to-Video Generation":
+        filters: ["Image-to-Video", "I2V", "Image Animation", "Still-to-Video", "Photo Animation", "Image-driven Video", "Video Prediction", "Future Frame Prediction", "Video Interpolation", "Motion Transfer", "Animate Still Images", "Image Sequence Generation", "Dynamic Scene Generation"]
+    "Video Editing & Enhancement":
+        filters: ["Video Editing", "Video Enhancement", "Video Inpainting", "Video Restoration", "Video Super-Resolution", "Video Denoising", "Video Colorization", "Video Style Transfer", "Video Upscaling", "Video Quality Enhancement", "Temporal Consistency", "Video Completion", "Video Object Removal", "Video Background Replacement"]
+    "3D & Motion Generation":
+        filters: ["3D Video Generation", "3D Scene Generation", "Motion Generation", "Human Motion Synthesis", "4D Generation", "Dynamic 3D", "Neural Radiance Fields Video", "NeRF Video", "3D Animation", "Volumetric Video", "Spatial-Temporal Generation", "3D-aware Video", "Multi-view Video"]
+    "Video Understanding & Control":
+        filters: ["Video Understanding", "Video Control", "Controllable Video Generation", "Video Manipulation", "Video Composition", "Scene Control", "Camera Control", "Motion Control", "Video Grounding", "Video Captioning", "Video-Language", "Multimodal Video"]
+    "Diffusion Models for Video":
+        filters: ["Video Diffusion", "Diffusion Video", "Video DDPM", "Video DDIM", "Latent Video Diffusion", "Video Denoising Diffusion", "Temporal Diffusion", "Spatio-Temporal Diffusion", "Video Generation Diffusion"]

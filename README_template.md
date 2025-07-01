@@ -35,9 +35,9 @@ Current Search Keywords: `Text-to-Video`, `Image-to-Video`, `Video Generation`, 
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/2502128021/video-generation-arxiv-daily/blob/main/analysis_by_ai.md) 
+[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/your_username/video-generation-arxiv-daily/blob/main/analysis_by_ai.md) 
 
-[Web Page](https://2502128021.github.io/video-generation-arxiv-daily/) ([Scrape Code](https://github.com/2502128021/video-generation-arxiv-daily)) 
+[Web Page](https://your_username.github.io/video-generation-arxiv-daily/) ([Scrape Code](https://github.com/your_username/video-generation-arxiv-daily)) 
 
 <details>
   <summary>Table of Contents</summary>
@@ -85,22 +85,21 @@ Current Search Keywords: `Text-to-Video`, `Image-to-Video`, `Video Generation`, 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=2502128021/video-generation-arxiv-daily&type=Date)](https://star-history.com/#2502128021/video-generation-arxiv-daily&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=your_username/video-generation-arxiv-daily&type=Date)](https://star-history.com/#your_username/video-generation-arxiv-daily&Date)
 
 ## Contributors
 
-<a href="https://github.com/2502128021/video-generation-arxiv-daily/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=2502128021/video-generation-arxiv-daily" />
+<a href="https://github.com/your_username/video-generation-arxiv-daily/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=your_username/video-generation-arxiv-daily" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-[contributors-shield]: https://img.shields.io/github/contributors/2502128021/video-generation-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/2502128021/video-generation-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/2502128021/video-generation-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/2502128021/video-generation-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/2502128021/video-generation-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/2502128021/video-generation-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/2502128021/video-generation-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/2502128021/video-generation-arxiv-daily/issues
-
+[contributors-shield]: https://img.shields.io/github/contributors/your_username/video-generation-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/your_username/video-generation-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/your_username/video-generation-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/your_username/video-generation-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/your_username/video-generation-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/your_username/video-generation-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/your_username/video-generation-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/your_username/video-generation-arxiv-daily/issues 

@@ -1,1 +1,35 @@
+# 视频生成领域黑名单 - 过滤不相关或质量较低的论文
 FaceChain: A Playground for Human-centric Artificial Intelligence Generated Content
+Video Compression
+Video Streaming
+Video Codec
+Network Video
+Video Transmission
+Video Broadcasting
+Video Surveillance
+Security Camera
+CCTV
+Medical Video
+Surgical Video
+Endoscopy Video
+X-ray Video
+MRI Video
+Ultrasound Video
+Sports Video Analysis
+Game Video
+Gameplay Video
+Video Game
+Mobile Video
+Smartphone Video
+Video Call
+Video Conference
+Video Chat
+Educational Video
+Tutorial Video
+Training Video
+Marketing Video
+Advertisement Video
+Commercial Video
+News Video
+Documentary Video
+Interview Video
