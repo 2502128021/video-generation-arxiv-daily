@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video Generation Research Papers (Daily Updated)
-> Updated on 2025.07.01
+> Updated on 2025.07.02
 Current Search Keywords: `Text-to-Video Generation`, `Image-to-Video Generation`, `Video Editing & Enhancement`, `3D & Motion Generation`, `Video Understanding & Control`, `Diffusion Models for Video`
 
 > 本项目自动追踪视频生成领域的最新arXiv论文，每12小时更新一次。如有其他关键词建议，欢迎提出！
@@ -65,12 +65,12 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-29, **RoboScape: Physics-informed Embodied World Model**, Yu Shang et.al., Paper: [http://arxiv.org/abs/2506.23135](http://arxiv.org/abs/2506.23135)
 - 2025-06-27, **RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2506.22007](http://arxiv.org/abs/2506.22007)
 - 2025-06-30, **RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**, Jianing Jin et.al., Paper: [http://arxiv.org/abs/2506.23852](http://arxiv.org/abs/2506.23852)
-- 2025-06-28, **Listener-Rewarded Thinking in VLMs for Image Preferences**, Alexander Gambashidze et.al., Paper: [http://arxiv.org/abs/2506.22832](http://arxiv.org/abs/2506.22832)
+- 2025-07-01, **Listener-Rewarded Thinking in VLMs for Image Preferences**, Alexander Gambashidze et.al., Paper: [http://arxiv.org/abs/2506.22832](http://arxiv.org/abs/2506.22832)
 - 2025-06-27, **FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**, Jiayi Zheng et.al., Paper: [http://arxiv.org/abs/2506.21272](http://arxiv.org/abs/2506.21272)
 - 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113](http://arxiv.org/abs/2506.24113)
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Image-to-Video Generation
 
@@ -89,7 +89,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-05-30, **Autoregression-free video prediction using diffusion model for mitigating error propagation**, Woonho Ko et.al., Paper: [http://arxiv.org/abs/2505.22111](http://arxiv.org/abs/2505.22111), Code: **[https://github.com/kowoonho/arfree](https://github.com/kowoonho/arfree)**
 - 2025-06-17, **AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**, Jeremy A. Collins et.al., Paper: [http://arxiv.org/abs/2506.14198](http://arxiv.org/abs/2506.14198)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Video Editing & Enhancement
 
@@ -109,7 +109,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-26, **Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**, Donggoo Kang et.al., Paper: [http://arxiv.org/abs/2506.20946](http://arxiv.org/abs/2506.20946)
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## 3D & Motion Generation
 
@@ -129,7 +129,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851](http://arxiv.org/abs/2506.19851)
 - 2025-06-18, **4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2506.18839](http://arxiv.org/abs/2506.18839)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Video Understanding & Control
 
@@ -149,7 +149,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-25, **Dense Video Captioning using Graph-based Sentence Summarization**, Zhiwang Zhang et.al., Paper: [http://arxiv.org/abs/2506.20583](http://arxiv.org/abs/2506.20583)
 - 2025-06-28, **ActAlign: Zero-Shot Fine-Grained Video Classification via Language-Guided Sequence Alignment**, Amir Aghdam et.al., Paper: [http://arxiv.org/abs/2506.22967](http://arxiv.org/abs/2506.22967)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Diffusion Models for Video
 
@@ -169,7 +169,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
 - 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851](http://arxiv.org/abs/2506.19851)
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 Notes: 
 
