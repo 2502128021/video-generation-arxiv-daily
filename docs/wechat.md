@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video Generation Research Papers (Daily Updated)
-> Updated on 2025.07.04
+> Updated on 2025.07.05
 Current Search Keywords: `Text-to-Video Generation`, `Image-to-Video Generation`, `Video Editing & Enhancement`, `3D & Motion Generation`, `Video Understanding & Control`, `Diffusion Models for Video`
 
 > 本项目自动追踪视频生成领域的最新arXiv论文，每12小时更新一次。如有其他关键词建议，欢迎提出！
@@ -66,23 +66,30 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-01, **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, Shivansh Patel et.al., Paper: [http://arxiv.org/abs/2507.00990](http://arxiv.org/abs/2507.00990)
 - 2025-06-29, **RoboScape: Physics-informed Embodied World Model**, Yu Shang et.al., Paper: [http://arxiv.org/abs/2506.23135](http://arxiv.org/abs/2506.23135)
 - 2025-06-27, **RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2506.22007](http://arxiv.org/abs/2506.22007)
+- 2025-07-03, **RefTok: Reference-Based Tokenization for Video Generation**, Xiang Fan et.al., Paper: [http://arxiv.org/abs/2507.02862](http://arxiv.org/abs/2507.02862)
 - 2025-06-30, **RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**, Jianing Jin et.al., Paper: [http://arxiv.org/abs/2506.23852](http://arxiv.org/abs/2506.23852)
 - 2025-07-01, **Populate-A-Scene: Affordance-Aware Human Video Generation**, Mengyi Shan et.al., Paper: [http://arxiv.org/abs/2507.00334](http://arxiv.org/abs/2507.00334)
+- 2025-07-03, **Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**, François Rozet et.al., Paper: [http://arxiv.org/abs/2507.02608](http://arxiv.org/abs/2507.02608)
 - 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945](http://arxiv.org/abs/2507.01945)
 - 2025-07-01, **Listener-Rewarded Thinking in VLMs for Image Preferences**, Alexander Gambashidze et.al., Paper: [http://arxiv.org/abs/2506.22832](http://arxiv.org/abs/2506.22832)
+- 2025-07-03, **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2507.02860](http://arxiv.org/abs/2507.02860)
+- 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813](http://arxiv.org/abs/2507.02813)
 - 2025-07-02, **LLM-based Realistic Safety-Critical Driving Video Generation**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2507.01264](http://arxiv.org/abs/2507.01264)
 - 2025-07-01, **Geometry-aware 4D Video Generation for Robot Manipulation**, Zeyi Liu et.al., Paper: [http://arxiv.org/abs/2507.01099](http://arxiv.org/abs/2507.01099)
 - 2025-06-30, **FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**, Yu Lu et.al., Paper: [http://arxiv.org/abs/2507.00162](http://arxiv.org/abs/2507.00162)
 - 2025-06-27, **FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**, Jiayi Zheng et.al., Paper: [http://arxiv.org/abs/2506.21272](http://arxiv.org/abs/2506.21272)
 - 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113](http://arxiv.org/abs/2506.24113)
+- 2025-07-03, **DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2507.02299](http://arxiv.org/abs/2507.02299)
 - 2025-07-01, **DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2507.01012](http://arxiv.org/abs/2507.01012)
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
 - 2025-07-02, **CI-VID: A Coherent Interleaved Text-Video Dataset**, Yiming Ju et.al., Paper: [http://arxiv.org/abs/2507.01938](http://arxiv.org/abs/2507.01938)
 - 2025-07-01, **Best Agent Identification for General Game Playing**, Matthew Stephenson et.al., Paper: [http://arxiv.org/abs/2507.00451](http://arxiv.org/abs/2507.00451)
+- 2025-07-03, **Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2507.02316](http://arxiv.org/abs/2507.02316)
+- 2025-07-03, **AnyI2V: Animating Any Conditional Image with Motion Control**, Ziye Li et.al., Paper: [http://arxiv.org/abs/2507.02857](http://arxiv.org/abs/2507.02857)
 - 2025-07-02, **AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**, Xiao Liu et.al., Paper: [http://arxiv.org/abs/2507.01255](http://arxiv.org/abs/2507.01255)
 - 2025-07-01, **AI-Generated Video Detection via Perceptual Straightening**, Christian Internò et.al., Paper: [http://arxiv.org/abs/2507.00583](http://arxiv.org/abs/2507.00583)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Image-to-Video Generation
 
@@ -104,7 +111,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-05-30, **Autoregression-free video prediction using diffusion model for mitigating error propagation**, Woonho Ko et.al., Paper: [http://arxiv.org/abs/2505.22111](http://arxiv.org/abs/2505.22111), Code: **[https://github.com/kowoonho/arfree](https://github.com/kowoonho/arfree)**
 - 2025-06-17, **AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**, Jeremy A. Collins et.al., Paper: [http://arxiv.org/abs/2506.14198](http://arxiv.org/abs/2506.14198)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Video Editing & Enhancement
 
@@ -123,15 +130,18 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-27, **MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**, Dechao Meng et.al., Paper: [http://arxiv.org/abs/2506.22065](http://arxiv.org/abs/2506.22065)
 - 2025-06-26, **Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models**, Haoyang Wu et.al., Paper: [http://arxiv.org/abs/2506.21330](http://arxiv.org/abs/2506.21330)
 - 2025-06-30, **GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering**, Zinuo You et.al., Paper: [http://arxiv.org/abs/2506.23957](http://arxiv.org/abs/2506.23957)
+- 2025-07-03, **From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**, Xiangfeng Wang et.al., Paper: [http://arxiv.org/abs/2507.02790](http://arxiv.org/abs/2507.02790)
 - 2025-06-30, **FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**, Yu Lu et.al., Paper: [http://arxiv.org/abs/2507.00162](http://arxiv.org/abs/2507.00162)
 - 2025-06-27, **DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**, Lingling Cai et.al., Paper: [http://arxiv.org/abs/2506.20967](http://arxiv.org/abs/2506.20967)
 - 2025-07-01, **DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2507.01012](http://arxiv.org/abs/2507.01012)
 - 2025-06-26, **Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**, Donggoo Kang et.al., Paper: [http://arxiv.org/abs/2506.20946](http://arxiv.org/abs/2506.20946)
 - 2025-07-02, **Coherent Online Road Topology Estimation and Reasoning with Standard-Definition Maps**, Khanh Son Pham et.al., Paper: [http://arxiv.org/abs/2507.01397](http://arxiv.org/abs/2507.01397)
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
+- 2025-07-03, **CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**, Xiangyang Luo et.al., Paper: [http://arxiv.org/abs/2507.02691](http://arxiv.org/abs/2507.02691)
 - 2025-07-01, **Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**, Djamahl Etchegaray et.al., Paper: [http://arxiv.org/abs/2507.00525](http://arxiv.org/abs/2507.00525)
+- 2025-07-03, **Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos**, Zecheng Zhao et.al., Paper: [http://arxiv.org/abs/2507.02316](http://arxiv.org/abs/2507.02316)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## 3D & Motion Generation
 
@@ -152,12 +162,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-01, **A Unified Transformer-Based Framework with Pretraining For Whole Body Grasping Motion Generation**, Edward Effendy et.al., Paper: [http://arxiv.org/abs/2507.00676](http://arxiv.org/abs/2507.00676)
 - 2025-06-18, **4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2506.18839](http://arxiv.org/abs/2506.18839)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Video Understanding & Control
 
 - 2025-06-24, **Video-XL-2: Towards Very Long-Video Understanding Through Task-Aware KV Sparsification**, Minghao Qin et.al., Paper: [http://arxiv.org/abs/2506.19225](http://arxiv.org/abs/2506.19225)
 - 2025-06-30, **Towards an Automated Multimodal Approach for Video Summarization: Building a Bridge Between Text, Audio and Facial Cue-Based Summarization**, Md Moinul Islam et.al., Paper: [http://arxiv.org/abs/2506.23714](http://arxiv.org/abs/2506.23714)
+- 2025-07-01, **Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames**, Anurag Arnab et.al., Paper: [http://arxiv.org/abs/2507.02001](http://arxiv.org/abs/2507.02001)
 - 2025-06-26, **Task-Aware KV Compression For Cost-Effective Long Video Understanding**, Minghao Qin et.al., Paper: [http://arxiv.org/abs/2506.21184](http://arxiv.org/abs/2506.21184)
 - 2025-06-25, **Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization**, Zhiwang Zhang et.al., Paper: [http://arxiv.org/abs/2506.20567](http://arxiv.org/abs/2506.20567)
 - 2025-06-27, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139](http://arxiv.org/abs/2506.22139)
@@ -167,6 +178,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-29, **Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications**, Zhanxiang Cao et.al., Paper: [http://arxiv.org/abs/2506.23114](http://arxiv.org/abs/2506.23114)
 - 2025-07-01, **MVP: Winning Solution to SMP Challenge 2025 Video Track**, Liliang Ye et.al., Paper: [http://arxiv.org/abs/2507.00950](http://arxiv.org/abs/2507.00950)
 - 2025-07-02, **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**, Nan Chen et.al., Paper: [http://arxiv.org/abs/2507.01945](http://arxiv.org/abs/2507.01945)
+- 2025-07-02, **Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**, Sanjeda Akter et.al., Paper: [http://arxiv.org/abs/2507.02074](http://arxiv.org/abs/2507.02074)
 - 2025-06-27, **LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs**, Boyuan Sun et.al., Paper: [http://arxiv.org/abs/2506.21862](http://arxiv.org/abs/2506.21862)
 - 2025-07-02, **Kwai Keye-VL Technical Report**, Kwai Keye Team et.al., Paper: [http://arxiv.org/abs/2507.01949](http://arxiv.org/abs/2507.01949)
 - 2025-06-24, **Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2506.19774](http://arxiv.org/abs/2506.19774)
@@ -180,10 +192,12 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-01, **DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2507.01012](http://arxiv.org/abs/2507.01012)
 - 2025-07-01, **CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs**, Jiaming Zhang et.al., Paper: [http://arxiv.org/abs/2507.00817](http://arxiv.org/abs/2507.00817)
 - 2025-07-01, **Bisecle: Binding and Separation in Continual Learning for Video Language Understanding**, Yue Tan et.al., Paper: [http://arxiv.org/abs/2507.00469](http://arxiv.org/abs/2507.00469)
+- 2025-07-03, **AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding**, Weili Xu et.al., Paper: [http://arxiv.org/abs/2507.02591](http://arxiv.org/abs/2507.02591)
+- 2025-07-03, **AnyI2V: Animating Any Conditional Image with Motion Control**, Ziye Li et.al., Paper: [http://arxiv.org/abs/2507.02857](http://arxiv.org/abs/2507.02857)
 - 2025-06-28, **ActAlign: Zero-Shot Fine-Grained Video Classification via Language-Guided Sequence Alignment**, Amir Aghdam et.al., Paper: [http://arxiv.org/abs/2506.22967](http://arxiv.org/abs/2506.22967)
 - 2025-07-02, **AVC-DPO: Aligned Video Captioning via Direct Preference Optimization**, Jiyang Tang et.al., Paper: [http://arxiv.org/abs/2507.01492](http://arxiv.org/abs/2507.01492)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Diffusion Models for Video
 
@@ -195,17 +209,20 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-01, **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, Shivansh Patel et.al., Paper: [http://arxiv.org/abs/2507.00990](http://arxiv.org/abs/2507.00990)
 - 2025-06-27, **RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2506.22007](http://arxiv.org/abs/2506.22007)
 - 2025-06-24, **Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**, Xingyang Li et.al., Paper: [http://arxiv.org/abs/2506.19852](http://arxiv.org/abs/2506.19852)
+- 2025-07-03, **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2507.02860](http://arxiv.org/abs/2507.02860)
+- 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813](http://arxiv.org/abs/2507.02813)
 - 2025-06-24, **GenHSI: Controllable Generation of Human-Scene Interaction Videos**, Zekun Li et.al., Paper: [http://arxiv.org/abs/2506.19840](http://arxiv.org/abs/2506.19840)
 - 2025-06-27, **FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**, Jiayi Zheng et.al., Paper: [http://arxiv.org/abs/2506.21272](http://arxiv.org/abs/2506.21272)
 - 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113](http://arxiv.org/abs/2506.24113)
 - 2025-06-21, **DreamJourney: Perpetual View Generation with Video Diffusion Models**, Bo Pan et.al., Paper: [http://arxiv.org/abs/2506.17705](http://arxiv.org/abs/2506.17705)
+- 2025-07-03, **DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2507.02299](http://arxiv.org/abs/2507.02299)
 - 2025-06-27, **DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**, Lingling Cai et.al., Paper: [http://arxiv.org/abs/2506.20967](http://arxiv.org/abs/2506.20967)
 - 2025-07-01, **DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2507.01012](http://arxiv.org/abs/2507.01012)
 - 2025-06-24, **CoCo4D: Comprehensive and Complex 4D Scene Generation**, Junwei Zhou et.al., Paper: [http://arxiv.org/abs/2506.19798](http://arxiv.org/abs/2506.19798)
 - 2025-06-29, **Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**, Lei-lei Li et.al., Paper: [http://arxiv.org/abs/2506.23263](http://arxiv.org/abs/2506.23263)
 - 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851](http://arxiv.org/abs/2506.19851)
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 Notes: 
 
