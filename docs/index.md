@@ -49,6 +49,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models**|Jiajian Xie et.al.|[2507.11980](http://arxiv.org/abs/2507.11980)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
@@ -153,6 +160,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**HairShifter: Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation**|Wangzheng Shi et.al.|[2507.12758](http://arxiv.org/abs/2507.12758)|null|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
 |**2025-07-16**|**SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models**|Chen Li et.al.|[2507.12156](http://arxiv.org/abs/2507.12156)|null|
 |**2025-07-15**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-14**|**Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration**|Wenkang Han et.al.|[2507.10293](http://arxiv.org/abs/2507.10293)|null|
@@ -207,6 +217,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
 |**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949](http://arxiv.org/abs/2507.11949)|null|
@@ -247,6 +258,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
 |**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245](http://arxiv.org/abs/2507.12245)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
@@ -310,6 +322,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
