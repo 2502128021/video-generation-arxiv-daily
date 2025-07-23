@@ -49,6 +49,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
+|**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
+|**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
 |**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
@@ -141,6 +145,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
 |**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
 |**2025-07-20**|**Light Future: Multimodal Action Frame Prediction via InstructPix2Pix**|Zesen Zhong et.al.|[2507.14809](http://arxiv.org/abs/2507.14809)|null|
 |**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801](http://arxiv.org/abs/2507.13801)|null|
@@ -173,6 +178,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
+|**2025-07-22**|**Explicit Context Reasoning with Supervision for Visual Tracking**|Fansheng Zeng et.al.|[2507.16191](http://arxiv.org/abs/2507.16191)|null|
 |**2025-07-21**|**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**|Feng-Qi Cui et.al.|[2507.15765](http://arxiv.org/abs/2507.15765)|null|
 |**2025-07-21**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-20**|**Grounding Degradations in Natural Language for All-In-One Video Restoration**|Muhammad Kamran Janjua et.al.|[2507.14851](http://arxiv.org/abs/2507.14851)|null|
@@ -235,6 +242,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
+|**2025-07-22**|**MMS Player: an open source software for parametric data-driven animation of Sign Language avatars**|Fabrizio Nunnari et.al.|[2507.16463](http://arxiv.org/abs/2507.16463)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
 |**2025-07-20**|**Towards Geometric and Textural Consistency 3D Scene Generation via Single Image-guided Model Generation and Layout Optimization**|Xiang Tang et.al.|[2507.14841](http://arxiv.org/abs/2507.14841)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
@@ -280,6 +289,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
 |**2025-07-21**|**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding**|Xiaoyi Bao et.al.|[2507.15569](http://arxiv.org/abs/2507.15569)|null|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
 |**2025-07-20**|**Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction**|Ce Zhang et.al.|[2507.15130](http://arxiv.org/abs/2507.15130)|null|
@@ -351,6 +361,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
+|**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
 |**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
 |**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
 |**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
