@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video Generation Research Papers (Daily Updated)
-> Updated on 2025.10.13
+> Updated on 2025.10.14
 Current Search Keywords: `Text-to-Video Generation`, `Image-to-Video Generation`, `Video Editing & Enhancement`, `3D & Motion Generation`, `Video Understanding & Control`, `Diffusion Models for Video`
 
 > 本项目自动追踪视频生成领域的最新arXiv论文，每12小时更新一次。如有其他关键词建议，欢迎提出！
@@ -150,7 +150,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 - 2025-07-17, **"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**, Jing Gu et.al., Paper: [http://arxiv.org/abs/2507.13428](http://arxiv.org/abs/2507.13428)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Image-to-Video Generation
 
@@ -183,7 +183,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-05-30, **Autoregression-free video prediction using diffusion model for mitigating error propagation**, Woonho Ko et.al., Paper: [http://arxiv.org/abs/2505.22111](http://arxiv.org/abs/2505.22111), Code: **[https://github.com/kowoonho/arfree](https://github.com/kowoonho/arfree)**
 - 2025-06-17, **AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**, Jeremy A. Collins et.al., Paper: [http://arxiv.org/abs/2506.14198](http://arxiv.org/abs/2506.14198)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Video Editing & Enhancement
 
@@ -249,7 +249,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-07, **4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**, Yutian Chen et.al., Paper: [http://arxiv.org/abs/2507.05163](http://arxiv.org/abs/2507.05163)
 - 2025-07-12, **$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144](http://arxiv.org/abs/2507.09144)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## 3D & Motion Generation
 
@@ -297,7 +297,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-18, **4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2506.18839](http://arxiv.org/abs/2506.18839)
 - 2025-07-14, **4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**, Shanshan Zhong et.al., Paper: [http://arxiv.org/abs/2507.10437](http://arxiv.org/abs/2507.10437)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Video Understanding & Control
 
@@ -373,7 +373,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-06-28, **ActAlign: Zero-Shot Fine-Grained Video Classification via Language-Guided Sequence Alignment**, Amir Aghdam et.al., Paper: [http://arxiv.org/abs/2506.22967](http://arxiv.org/abs/2506.22967)
 - 2025-07-02, **AVC-DPO: Aligned Video Captioning via Direct Preference Optimization**, Jiyang Tang et.al., Paper: [http://arxiv.org/abs/2507.01492](http://arxiv.org/abs/2507.01492)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Diffusion Models for Video
 
@@ -418,7 +418,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-07-07, **4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**, Yutian Chen et.al., Paper: [http://arxiv.org/abs/2507.05163](http://arxiv.org/abs/2507.05163)
 - 2025-07-17, **$\nabla$ NABLA: Neighborhood Adaptive Block-Level Attention**, Dmitrii Mikhailov et.al., Paper: [http://arxiv.org/abs/2507.13546](http://arxiv.org/abs/2507.13546)
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 Notes: 
 
