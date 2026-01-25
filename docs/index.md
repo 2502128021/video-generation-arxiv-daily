@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Video Generation Research Papers (Daily Updated)
-### Automatically Updated on 2026.01.24
+### Automatically Updated on 2026.01.25
 Current Search Keywords: `Text-to-Video Generation`, `Image-to-Video Generation`, `Video Editing & Enhancement`, `3D & Motion Generation`, `Video Understanding & Control`, `Diffusion Models for Video`
 
 > 本项目自动追踪视频生成领域的最新arXiv论文，每12小时更新一次。如有其他关键词建议，欢迎提出！
